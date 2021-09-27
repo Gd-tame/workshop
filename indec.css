@@ -1,0 +1,31 @@
+*{
+    background-color : black;
+    color: wheat;
+    scroll-behavior: smooth;
+}
+.nav li{
+    width : 20%;
+    float : left;
+}
+h1{
+    text-align: center;
+}
+/* p{
+    
+} */
+img{
+    width : 300px;
+    height : 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    border : 5px dotted red;
+}
+.content li{
+
+    font-size : 25px;
+    border : 2px solid lightblue;
+}
+.nav a{
+    text-decoration: none;
+    color : red;
+}
